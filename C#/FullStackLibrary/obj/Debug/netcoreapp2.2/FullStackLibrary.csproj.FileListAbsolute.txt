@@ -1,0 +1,8 @@
+C:\Users\v.arkhangelsky\Desktop\fullstack_tasks\FullStackLibrary\obj\Debug\netcoreapp2.2\FullStackLibrary.csproj.CoreCompileInputs.cache
+C:\Users\v.arkhangelsky\Desktop\fullstack_tasks\FullStackLibrary\obj\Debug\netcoreapp2.2\FullStackLibrary.AssemblyInfoInputs.cache
+C:\Users\v.arkhangelsky\Desktop\fullstack_tasks\FullStackLibrary\obj\Debug\netcoreapp2.2\FullStackLibrary.AssemblyInfo.cs
+C:\Users\v.arkhangelsky\Desktop\fullstack_tasks\FullStackLibrary\bin\Debug\netcoreapp2.2\FullStackLibrary.deps.json
+C:\Users\v.arkhangelsky\Desktop\fullstack_tasks\FullStackLibrary\bin\Debug\netcoreapp2.2\FullStackLibrary.dll
+C:\Users\v.arkhangelsky\Desktop\fullstack_tasks\FullStackLibrary\bin\Debug\netcoreapp2.2\FullStackLibrary.pdb
+C:\Users\v.arkhangelsky\Desktop\fullstack_tasks\FullStackLibrary\obj\Debug\netcoreapp2.2\FullStackLibrary.dll
+C:\Users\v.arkhangelsky\Desktop\fullstack_tasks\FullStackLibrary\obj\Debug\netcoreapp2.2\FullStackLibrary.pdb

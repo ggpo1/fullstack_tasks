@@ -1,0 +1,14 @@
+C:\Users\v.arkhangelsky\Desktop\fullstack_tasks\FullStackConsole\obj\Debug\netcoreapp2.2\FullStackConsole.csprojAssemblyReference.cache
+C:\Users\v.arkhangelsky\Desktop\fullstack_tasks\FullStackConsole\obj\Debug\netcoreapp2.2\FullStackConsole.csproj.CoreCompileInputs.cache
+C:\Users\v.arkhangelsky\Desktop\fullstack_tasks\FullStackConsole\obj\Debug\netcoreapp2.2\FullStackConsole.AssemblyInfoInputs.cache
+C:\Users\v.arkhangelsky\Desktop\fullstack_tasks\FullStackConsole\obj\Debug\netcoreapp2.2\FullStackConsole.AssemblyInfo.cs
+C:\Users\v.arkhangelsky\Desktop\fullstack_tasks\FullStackConsole\bin\Debug\netcoreapp2.2\FullStackConsole.deps.json
+C:\Users\v.arkhangelsky\Desktop\fullstack_tasks\FullStackConsole\bin\Debug\netcoreapp2.2\FullStackConsole.runtimeconfig.json
+C:\Users\v.arkhangelsky\Desktop\fullstack_tasks\FullStackConsole\bin\Debug\netcoreapp2.2\FullStackConsole.runtimeconfig.dev.json
+C:\Users\v.arkhangelsky\Desktop\fullstack_tasks\FullStackConsole\bin\Debug\netcoreapp2.2\FullStackConsole.dll
+C:\Users\v.arkhangelsky\Desktop\fullstack_tasks\FullStackConsole\bin\Debug\netcoreapp2.2\FullStackConsole.pdb
+C:\Users\v.arkhangelsky\Desktop\fullstack_tasks\FullStackConsole\bin\Debug\netcoreapp2.2\FullStackLibrary.dll
+C:\Users\v.arkhangelsky\Desktop\fullstack_tasks\FullStackConsole\bin\Debug\netcoreapp2.2\FullStackLibrary.pdb
+C:\Users\v.arkhangelsky\Desktop\fullstack_tasks\FullStackConsole\obj\Debug\netcoreapp2.2\FullStackConsole.csproj.CopyComplete
+C:\Users\v.arkhangelsky\Desktop\fullstack_tasks\FullStackConsole\obj\Debug\netcoreapp2.2\FullStackConsole.dll
+C:\Users\v.arkhangelsky\Desktop\fullstack_tasks\FullStackConsole\obj\Debug\netcoreapp2.2\FullStackConsole.pdb
